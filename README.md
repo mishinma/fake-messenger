@@ -5,7 +5,7 @@ Implemented functionality & details:
 - Frontend: React (components adapted from https://github.com/davidzas/react-chat)
 - Backend: Express.js and mongodb
 - User authentication with JWT tokens and passwords
-- Dockerized
+- Docker & docker-compose
 
 Start the app with `docker-compose up` and open http://localhost:3001
 
