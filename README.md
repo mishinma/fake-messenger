@@ -7,6 +7,8 @@ Implemented functionality & details:
 - User authentication with JWT tokens and passwords
 - Docker & docker-compose
 
+ToDo: implement live messaging with websockets (ChatAPI)
+
 Start the app with `docker-compose up` and open http://localhost:3001
 
 Login with one of the users:
