@@ -1,5 +1,8 @@
 # Fake Messenger Web App
 
+![image](https://user-images.githubusercontent.com/8950027/124102661-3c1eba00-da69-11eb-92d5-5e849c272223.png)
+
+
 Implemented functionality & details:
 - Can login with one of the precreated users and view conversations and messages
 - Frontend: React (components adapted from https://github.com/davidzas/react-chat)
