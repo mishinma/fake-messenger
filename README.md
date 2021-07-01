@@ -1,6 +1,6 @@
 # Fake Messenger Web App
 
-![image](https://user-images.githubusercontent.com/8950027/124102909-7425fd00-da69-11eb-8323-2d42bc81ac09.png)
+![image](https://user-images.githubusercontent.com/8950027/124103021-8dc74480-da69-11eb-8e0b-3c5968ba5d76.png)
 
 
 Implemented functionality & details:
